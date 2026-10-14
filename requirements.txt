@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+matplotlib>=3.6
+vaderSentiment>=3.3
+yfinance>=0.2.40
+scipy>=1.9
+joblib>=1.2
+pytest>=7          # only needed for the tests: python -m pytest -q
